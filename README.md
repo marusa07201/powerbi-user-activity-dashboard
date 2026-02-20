@@ -109,6 +109,13 @@ Relationships:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
+
+---
+
 ## 💡 Insights & Growth Hypotheses
 
 Possible growth opportunities:
